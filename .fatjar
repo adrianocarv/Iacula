@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Mar 25 10:11:08 GMT-03:00 2007
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=iacula.jar
+manifest.mergeall=true
+manifest.mainclass=view.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
